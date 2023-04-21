@@ -1,0 +1,46 @@
+Comandos aprendidos do gitbash  
+
+git pull - Puxar versao anterior
+
+git push origin master - Empurrar nova versão
+
+git push -u origin 
+
+cd  - entrar pasta
+
+cd .. - voltar pasta
+
+git add . - adc todos arquivos da pasta
+
+git add * - atualizar modificações
+
+git commit -m " " - registrar protocolo
+
+ls / dir / 
+
+git log -- oneline - listar todos os hash e commits
+
+git revert Numero do hash
+
+git config --global user.name "manoel" 
+                                        Autenticar git online
+git config --global "manoel@gmail.Com"  
+
+git config --global credenctial.helper cache  - guardar informaçoes login
+
+git config --global credential.helper store  -  armazenar ultima credencial, falha de cache
+Git branch -M (Nome) - Renomear master
+
+Git remote add origin  http........   - Adc link do repositorio
+
+git push -u origin master - empurrar / fork / upload remoto
+
+mkdir - criar pasta 
+
+echo > arquivo.formato - criar arquivo
+
+ 
+
+
+
+     
