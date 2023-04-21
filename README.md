@@ -2,4 +2,4 @@
 
 
 
-Seja bem vindo ao grande evento que mudou a minha vida.
+Seja bem vindo ao grande evento que mudou a minha vid
